@@ -1,0 +1,78 @@
+{
+    "clienti": [
+        {
+            "cF": "0000",
+            "nome": "Paolo",
+            "cognome": "Ferrari",
+            "fedelta'": "bassa"
+        },
+        {
+            "cF": "gae",
+            "nome": "bsdr",
+            "cognome": "gerb",
+            "fedelta'": "bassa"
+        },
+        {
+            "cF": "rtva",
+            "nome": "brta",
+            "cognome": "rta",
+            "fedelta'": "bassa"
+        },
+        {
+            "cF": "rawr",
+            "nome": "ubgfg",
+            "cognome": "geykrha",
+            "fedelta'": "bassa"
+        },
+        {
+            "cF": "TEH",
+            "nome": "RVB",
+            "cognome": "WRAWRGA",
+            "fedelta'": "bassa"
+        },
+        {
+            "cF": "cfAli",
+            "nome": "Ali",
+            "cognome": "Test",
+            "fedelta'": "bassa"
+        }
+    ],
+    "fornitori": [
+        {
+            "cF": "0001",
+            "nome": "Mario",
+            "cognome": "Bianchi",
+            "settori": []
+        },
+        {
+            "cF": "cfLorenzo",
+            "nome": "Lorenzo",
+            "cognome": "Neri",
+            "settori": [
+                "casa",
+                "arre",
+                "napoli"
+            ]
+        }
+    ],
+    "fatture": [
+        {
+            "numero": "1",
+            "data": "11/04/2025",
+            "importo": 1000.0,
+            "cFPersona": "0001"
+        },
+        {
+            "numero": "2",
+            "data": "14/04/2025",
+            "importo": 10000.0,
+            "cFPersona": "0000"
+        },
+        {
+            "numero": 55,
+            "data": "23/09/2099",
+            "importo": 45678.0,
+            "cFPersona": "rtva"
+        }
+    ]
+}

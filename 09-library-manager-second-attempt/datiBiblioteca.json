@@ -1,0 +1,46 @@
+{
+  "utenti": [
+    {
+      "codiceFiscale": "MEOLCU85M01",
+      "matricola": "U1",
+      "nome": "Luca",
+      "cognome": "Meowchi",
+      "libri_in_prestito": ["L002"]
+    },
+    {
+      "codiceFiscale": "RSSMRA85M01H501Z",
+      "matricola": "U2",
+      "nome": "Sarameow",
+      "cognome": "Rossi",
+      "libri_in_prestito": []
+    }
+  ],
+
+  "libri": [
+    {
+      "codice": "L1",
+      "titolo": "Il nome della rosa",
+      "autore": "Umberto Eco",
+      "genere": "Romanzo storico",
+      "anno": 1980,
+      "stato": "disponibile"
+    },
+    {
+      "codice": "L2",
+      "titolo": "Clean Code",
+      "autore": "Robert C. Martin",
+      "genere": "Informatica",
+      "anno": 2008,
+      "stato": "in prestito"
+    }
+  ],
+
+  "prestiti": [
+    {
+      "id_prestito": "P1",
+      "matricola_utente": "U001",
+      "codice_libro": "L002",
+      "stato": "attivo"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+    "allenatori": [
+        {
+            "cF": "CF00100",
+            "nome": "Matteo",
+            "cognome": "Marino",
+            "anni": 40,
+            "categoria": "allievi"
+        },
+        {
+            "cF": "CF00101",
+            "nome": "Giulia",
+            "cognome": "Gallo",
+            "anni": 34,
+            "categoria": "juniores"
+        },
+        {
+            "cF": "cfBalo",
+            "nome": "Mario",
+            "cognome": "Balotelli",
+            "anni": 44,
+            "categoria": "allievi"
+        },
+        {
+            "cF": "cfMartina",
+            "nome": "Martina",
+            "cognome": "Greco",
+            "anni": 27,
+            "categoria": "allievi"
+        },
+        {
+            "cF": "CFBOH",
+            "nome": "Fra",
+            "cognome": "Bro",
+            "anni": 55,
+            "categoria": "juniores"
+        }
+    ],
+    "giocatori": [
+        {
+            "cF": "CF00000",
+            "nome": "Luca",
+            "cognome": "Rizzo",
+            "anni": 5,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00001",
+            "nome": "Alessandro",
+            "cognome": "Esposito",
+            "anni": 7,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00002",
+            "nome": "Luca",
+            "cognome": "Conti",
+            "anni": 11,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00003",
+            "nome": "Sara",
+            "cognome": "Greco",
+            "anni": 8,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00004",
+            "nome": "Matteo",
+            "cognome": "Verdi",
+            "anni": 12,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00005",
+            "nome": "Sara",
+            "cognome": "Russo",
+            "anni": 14,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00006",
+            "nome": "Matteo",
+            "cognome": "Russo",
+            "anni": 9,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00007",
+            "nome": "Luca",
+            "cognome": "Conti",
+            "anni": 13,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00008",
+            "nome": "Sara",
+            "cognome": "Rossi",
+            "anni": 12,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00009",
+            "nome": "Sara",
+            "cognome": "Russo",
+            "anni": 15,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00010",
+            "nome": "Andrea",
+            "cognome": "Esposito",
+            "anni": 12,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00011",
+            "nome": "Sara",
+            "cognome": "Gallo",
+            "anni": 16,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00012",
+            "nome": "Francesco",
+            "cognome": "Esposito",
+            "anni": 16,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00013",
+            "nome": "Luca",
+            "cognome": "Rizzo",
+            "anni": 16,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00014",
+            "nome": "Andrea",
+            "cognome": "Bianchi",
+            "anni": 12,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00015",
+            "nome": "Giulia",
+            "cognome": "Marino",
+            "anni": 9,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00016",
+            "nome": "Matteo",
+            "cognome": "Marino",
+            "anni": 17,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00017",
+            "nome": "Luca",
+            "cognome": "Rossi",
+            "anni": 9,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00018",
+            "nome": "Luca",
+            "cognome": "Russo",
+            "anni": 8,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00019",
+            "nome": "Sara",
+            "cognome": "Bianchi",
+            "anni": 7,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00020",
+            "nome": "Matteo",
+            "cognome": "Rossi",
+            "anni": 5,
+            "ruolo": "portiere"
+        },
+        {
+            "cF": "CF00021",
+            "nome": "Andrea",
+            "cognome": "Bianchi",
+            "anni": 6,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00022",
+            "nome": "Chiara",
+            "cognome": "Bianchi",
+            "anni": 8,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00023",
+            "nome": "Marco",
+            "cognome": "Greco",
+            "anni": 8,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00024",
+            "nome": "Giulia",
+            "cognome": "Rossi",
+            "anni": 10,
+            "ruolo": "centrocampista"
+        },
+        {
+            "cF": "CF00025",
+            "nome": "Chiara",
+            "cognome": "Esposito",
+            "anni": 19,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00026",
+            "nome": "Andrea",
+            "cognome": "Russo",
+            "anni": 10,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00027",
+            "nome": "Chiara",
+            "cognome": "Rizzo",
+            "anni": 9,
+            "ruolo": "portiere"
+        },
+        {
+            "cF": "CF00028",
+            "nome": "Chiara",
+            "cognome": "Gallo",
+            "anni": 14,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00029",
+            "nome": "Alessandro",
+            "cognome": "Rossi",
+            "anni": 11,
+            "ruolo": "attaccante"
+        },
+        {
+            "cF": "CF00030",
+            "nome": "Sara",
+            "cognome": "Conti",
+            "anni": 17,
+            "ruolo": "difensore"
+        },
+        {
+            "cF": "CF00031",
+            "nome": "Sara",
+            "cognome": "Verdi",
+            "anni": 14,
+            "ruolo": "portiere"
+        },
+        {
+            "cF": "CFLORENZO",
+            "nome": "Lorenzo",
+            "cognome": "Fontana",
+            "anni": 18,
+            "ruolo": "portiere"
+        },
+        {
+            "cF": "dhrdhd",
+            "nome": "hft",
+            "cognome": "hhdhd",
+            "anni": 11,
+            "ruolo": "difensore"
+        }
+    ],
+    "squadre": [
+        {
+            "nome": "FORZAITS",
+            "codiceFiscaleAllenatore": "CF00100",
+            "codiciFiscaliGiocatori": [
+                "CF00005",
+                "CF00014",
+                "CF00010",
+                "CF00006",
+                "CF00015",
+                "CF00007",
+                "CF00000",
+                "CF00002",
+                "CF00003",
+                "CF00008",
+                "CF00001",
+                "CF00004"
+            ],
+            "vinte": 10,
+            "perse": 2,
+            "pareggiate": 2
+        },
+        {
+            "nome": "JuveM3rd4",
+            "codiceFiscaleAllenatore": "CF00101",
+            "codiciFiscaliGiocatori": [
+                "CF00025",
+                "CF00016",
+                "CF00021",
+                "CF00019",
+                "CF00022",
+                "CF00020",
+                "CF00028",
+                "CF00024",
+                "CF00027",
+                "CF00031",
+                "CF00029",
+                "CF00026",
+                "CF00018",
+                "CF00017",
+                "CF00023"
+            ],
+            "vinte": 0,
+            "perse": 20,
+            "pareggiate": 4
+        },
+        {
+            "nome": "Inter",
+            "codiceFiscaleAllenatore": "cfMartina",
+            "codiciFiscaliGiocatori": [
+                "CF00009",
+                "CF00011",
+                "CF00013",
+                "CF00012",
+                "CF00030"
+            ],
+            "vinte": 35,
+            "perse": 1,
+            "pareggiate": 1
+        }
+    ]
+}

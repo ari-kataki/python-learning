@@ -1,0 +1,7 @@
+Joe Black;250.5
+Clark Kent;1100
+Wonder Woman;340.88
+Clark Kent;-58
+Spider Man;467
+Joe Black;-100
+Joe Black;50

@@ -1,0 +1,27 @@
+
+{
+    "mappe": [
+        {
+            "navn": "mappe1",
+            "filer": [
+                {
+                    "navn": "fil1.txt",
+                    "størrelse": 1024
+                },
+                {
+                    "navn": "fil2.txt",
+                    "størrelse": 2048
+                }
+            ]
+        },
+        {
+            "navn": "mappe2",
+            "filer": [
+                {
+                    "navn": "fil3.txt",
+                    "størrelse": 512
+                }
+            ]
+        }
+    ]
+}
